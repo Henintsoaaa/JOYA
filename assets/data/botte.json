@@ -1,0 +1,36 @@
+{
+    "produits": [
+        {
+            "id": 0,
+            "name": "Botte à talon noir",
+            "prix": 90,
+            "etoile": 2,
+            "disponibilité": 3,
+            "imageUrl": "img/botte/botte1.jpeg"
+        },
+        {
+            "id": 0,
+            "name": "Demi-bottes beige à lastique",
+            "prix": 104,
+            "etoile": 4,
+            "disponibilité": 2,
+            "imageUrl": "img/botte/botte2.webp"
+        },
+        {
+            "id": 0,
+            "name": "Botte longue beige",
+            "prix": 95,
+            "etoile": 2,
+            "disponibilité": 3,
+            "imageUrl": "img/botte/botte3.webp"
+        },
+        {
+            "id": 0,
+            "name": "Botte semi-long noir",
+            "prix": 90,
+            "etoile": 2,
+            "disponibilité": 3,
+            "imageUrl": "img/botte/botte4.jpg"
+        }
+    ]
+}

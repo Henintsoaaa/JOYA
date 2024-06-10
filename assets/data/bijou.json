@@ -1,0 +1,36 @@
+{
+    "produits": [
+        {
+            "id": 0,
+            "name": "Bague dorée avec diamant rouge",
+            "prix": 100,
+            "etoile": 4,
+            "disponibilité": 3,
+            "imageUrl": "img/bijou/bague1.jpg"
+        },
+        {
+            "id": 0,
+            "name": "Bague dorée avec diamant carrée",
+            "prix": 90,
+            "etoile": 3,
+            "disponibilité": 1,
+            "imageUrl": "img/bijou/bague2.webp"
+        },
+        {
+            "id": 0,
+            "name": "Bague argenté",
+            "prix": 175,
+            "etoile": 5,
+            "disponibilité": 3,
+            "imageUrl": "img/bijou/bague3.jpg"
+        },
+        {
+            "id": 0,
+            "name": "Bague argenté avec cristal bleu",
+            "prix": 175,
+            "etoile": 5,
+            "disponibilité": 3,
+            "imageUrl": "img/bijou/bague4.jpeg"
+        }
+    ]
+}

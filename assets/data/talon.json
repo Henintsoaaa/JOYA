@@ -1,0 +1,36 @@
+{
+    "produits": [
+        {
+            "id": 0,
+            "name": "Talon pointu noir",
+            "prix": 90,
+            "etoile": 2,
+            "disponibilité": 3,
+            "imageUrl": "img/talon/talon5.jpg"
+        },
+        {
+            "id": 0,
+            "name": "Plateforme Barbie noir",
+            "prix": 104,
+            "etoile": 4,
+            "disponibilité": 2,
+            "imageUrl": "img/talon/talon6.webp"
+        },
+        {
+            "id": 0,
+            "name": "Plateforme bicolore noire et rouge",
+            "prix": 95,
+            "etoile": 2,
+            "disponibilité": 3,
+            "imageUrl": "img/talon/talon7.jpg"
+        },
+        {
+            "id": 0,
+            "name": "Plateforme carrée noire",
+            "prix": 90,
+            "etoile": 2,
+            "disponibilité": 3,
+            "imageUrl": "img/talon/talon8.webp"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "produits": [
+        {
+            "id": 0,
+            "name": "Ceinture à lastique",
+            "prix": 100,
+            "etoile": 4,
+            "disponibilité": 3,
+            "imageUrl": "img/ceinture/ceinture1.jpg"
+        },
+        {
+            "id": 0,
+            "name": "Ceinture épaisse",
+            "prix": 90,
+            "etoile": 3,
+            "disponibilité": 1,
+            "imageUrl": "img/ceinture/ceinture2.jpg"
+        },
+        {
+            "id": 0,
+            "name": "Ceinture argentée",
+            "prix": 175,
+            "etoile": 5,
+            "disponibilité": 3,
+            "imageUrl": "img/ceinture/ceinture3.jpg"
+        },
+        {
+            "id": 0,
+            "name": "Ceinture cuire",
+            "prix": 175,
+            "etoile": 5,
+            "disponibilité": 3,
+            "imageUrl": "img/ceinture/ceinture3.webp"
+        }
+    ]
+}
