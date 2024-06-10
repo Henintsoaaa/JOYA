@@ -2,43 +2,35 @@
     "produits": [
         {
             "id": 0,
-            "name": "rouge",
+            "name": "Robe rouge maxi",
             "prix": 200,
             "etoile": 4,
             "disponibilité": 3,
-            "imageUrl": "img/robe/james-lewis-ohiyigDmlYc-unsplash.jpg"
+            "imageUrl": "img/robe/robe1.jpg"
         },
         {
             "id": 1,
-            "name": "rouge",
+            "name": "Robe moulante noir",
             "prix": 250,
             "etoile": 3,
             "disponibilité": 2,
-            "imageUrl": "img/robe/junior-reis-_vmoFgZc8c0-unsplash.jpg"
+            "imageUrl": "img/robe/robe2.jpg"
         },
         {
             "id": 1,
-            "name": "rouge",
+            "name": "Robe maxi bleu",
             "prix": 250,
             "etoile": 3,
             "disponibilité": 2,
-            "imageUrl": "img/robe/r-n-tyfqOL1FAQc-unsplash.jpg"
+            "imageUrl": "img/robe/robe3.webp"
         },
         {
             "id": 1,
-            "name": "rouge",
+            "name": "Robe moulante midi vert",
             "prix": 250,
             "etoile": 3,
             "disponibilité": 2,
-            "imageUrl": "img/robe/tamara-bellis-8Aq_zfMHPbU-unsplash.jpg"
-        },
-        {
-            "id": 1,
-            "name": "rouge",
-            "prix": 250,
-            "etoile": 3,
-            "disponibilité": 2,
-            "imageUrl": "img/robe/vicky-cheng-4mLKBKMPoHo-unsplash.jpg"
+            "imageUrl": "img/robe/robe4.jpeg"
         }
 
     ]
